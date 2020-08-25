@@ -10,6 +10,10 @@ Automatically retries to load a page until it is available with 10 seconds inter
 
 Translate selected text or page if no selection to browser language.
 
+## Google Translate Element
+
+Automatically inserts Google Translate Element into the page.
+
 ## Reload Images
 
 Reload all images on the page.
