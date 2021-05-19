@@ -6,6 +6,10 @@ A collection of userscripts for [Min](https://minbrowser.org) browser.
 
 Automatically retries to load a page until it is available with 10 seconds interval.
 
+## Copy Link Text
+
+Copy the text of the link.
+
 ## Google Translate
 
 Translate selected text or page if no selection to browser language.
