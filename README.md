@@ -26,6 +26,10 @@ Reload all images on the page.
 
 Look up which actions apply to a URL of the current page and why.
 
+## Toggle Design Mode
+
+Edit any page.
+
 ## Installation
 
 * Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), and copy script inside it.
