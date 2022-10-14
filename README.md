@@ -30,6 +30,10 @@ Look up which actions apply to a URL of the current page and why.
 
 Edit any page.
 
+## Reload page
+
+A simple button to reload a page.
+
 ## Installation
 
 * Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), and copy script inside it.
